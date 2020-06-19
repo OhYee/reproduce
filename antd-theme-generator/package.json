@@ -1,0 +1,13 @@
+{
+    "name": "reproduce",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "build": "node index.js"
+    },
+    "dependencies": {
+        "antd": "^4.3.4",
+        "antd-theme-generator": "^1.2.4"
+    }
+}
